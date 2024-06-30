@@ -19,8 +19,8 @@ let package = Package(
     targets: [
         .binaryTarget(
           name: "Au10tixLocalDataInferenceKit",
-          url: "https://github.com/au10tixmobile/Au10tixLocalDataInferenceKit/archive/refs/tags/4.1.0.zip",
-          checksum: "84eaaf9822f8ac79f3d090b07664e236fe512ef0bfec4d3802663413326f189f"
+          url: "https://github.com/au10tixmobile/Au10tixLocalDataInferenceKit/archive/refs/tags/4.2.0.zip",
+          checksum: "56f709ff0e9567d1435355bbf6b2521990966fa5b733101d26def1fba98b7039"
         )
     ]
 )
